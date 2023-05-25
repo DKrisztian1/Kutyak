@@ -126,4 +126,5 @@ foreach (var vizsgalat in napiVizsgalatok)
     }
 }
 Console.WriteLine($"9.feladat: Legjobban leterhelt nap: {legForgalmasabbNapKulcsa}: {napiVizsgalatok[legForgalmasabbNapKulcsa]}");
+
 */
